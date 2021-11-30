@@ -1,6 +1,6 @@
 # Projetos do Banco de dados do App MooviFast
 
-[<img src="https://github.com/appmoovifast/BD/blob/main/FIG_BD.png" width="50%">](https://github.com/appmoovifast/BD/blob/main/BD_MOOVIFAST.png)
+[<img src="https://github.com/appmoovifast/BD/blob/main/FIG_BD.png" width="50%">](https://github.com/appmoovifast/BD/blob/main/bd_moovifast_2.pdf)
 
 ## Banco de dados
 
