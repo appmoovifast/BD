@@ -1,6 +1,6 @@
 # Projetos do Banco de dados do App MooviFast
 
-[<img src="https://github.com/appmoovifast/prototipo/blob/main/prototipo.gif" width="50%">](https://www.figma.com/proto/HgxDZ4kpPaj4ayG1WnP7QV/Prototipo_MooviFast?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+[<img src="https://github.com/appmoovifast/BD/blob/main/FIG_BD.png" width="50%">](https://github.com/appmoovifast/BD/blob/main/BD_MOOVIFAST.png)
 
 ## Banco de dados
 
